@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "457455757865",
+    "project_id": "bed-management-b85b4",
+    "storage_bucket": "bed-management-b85b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457455757865:android:c47de0d14d9c9ee14cca38",
+        "android_client_info": {
+          "package_name": "com.example.covidhospitals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457455757865-6grnd24jbrhdj9s1pfhi2uraqh9s4mbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covid",
+            "certificate_hash": "8e5d5c82de23340d4d04d0539b8986a8cb2e8467"
+          }
+        },
+        {
+          "client_id": "457455757865-ihqtdcapgiktmlgs86j4qs19p1n409g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6-opm7pzyCDmsLpYn1Qk1DpUaT_3Y7h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457455757865-ihqtdcapgiktmlgs86j4qs19p1n409g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
